@@ -51,7 +51,7 @@ $ docker inspect Repository
 ```
 * Exemple:
 ```sh
-$ sudo docker inspect
+$ sudo docker inspect couchdb
 ```
 Output:
 ```sh
