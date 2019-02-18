@@ -19,3 +19,16 @@ $ sudo docker run centos –it /bin/bash
 * Centos est le nom de l'image que nous voulons télécharger depuis Docker Hub et installer sur notre machine Ubuntu.
 * Il est utilisé pour mentionner que nous voulons fonctionner en mode interactif.
 * /bin/bash est utilisé pour exécuter le shell bash une fois que CentOS est opérationnel.
+
+## Displaying Docker Images:
+Pour voir la liste des images Docker sur le système, vous pouvez exécuter la commande suivante.
+```sh
+$ sudo docker images
+```
+*Output
+![](dockerimages.png)
+Chaque image a les attributs suivants:
+* TAG − This is used to logically tag images.
+* Image ID − This is used to uniquely identify the image.
+* Created − The number of days since the image was created.
+* Size − The size of the image.
