@@ -1,0 +1,10 @@
+theme: jekyll-theme-architect
+
+author: Roy Geagea
+
+author_email: roygeagea@gmail.com
+
+title:  Autour de Docker 
+
+plugins: 
+  - jekyll-sitemap
