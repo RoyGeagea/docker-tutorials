@@ -1,5 +1,7 @@
 # Installation
 
+![](containers.jpeg)
+
 ## Conditions préalables
 Pour suivre ce tutoriel, vous aurez besoin des éléments suivants:
 
@@ -68,4 +70,4 @@ Output
            ├─13412 /usr/bin/dockerd -H fd://
            └─13421 docker-containerd --config /var/run/docker/containerd/containerd.toml
 ```
-Installing Docker now gives you not just the Docker service (daemon) but also the docker command line utility, or the Docker client. We'll explore how to use the docker command later in this tutorial.
+L'installation de Docker vous donne maintenant non seulement le service Docker (démon), mais également l'utilitaire de ligne de commande Docker ou le client Docker. Nous verrons comment utiliser la commande docker plus loin dans ce tutoriel.
