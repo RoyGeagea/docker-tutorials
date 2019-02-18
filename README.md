@@ -52,6 +52,6 @@ Docker est un service de gestion de conteneurs. Les mots-cl√©s de Docker sont d√
 
 # License
 
-This project is licensed under the GNU LESSER GENERAL PUBLIC License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GNU LESSER GENERAL PUBLIC License - see the [LICENSE](LICENSE) file for details
 
 
