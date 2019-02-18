@@ -25,8 +25,10 @@ Pour voir la liste des images Docker sur le système, vous pouvez exécuter la c
 ```sh
 $ sudo docker images
 ```
-*Output
+* Output:
+
 ![](dockerimages.png)
+
 Chaque image a les attributs suivants:
 * TAG − This is used to logically tag images.
 * Image ID − This is used to uniquely identify the image.
