@@ -53,7 +53,7 @@ $ docker inspect Repository
 ```sh
 $ sudo docker inspect
 ```
-  * Output:
+Output:
 ```sh
   [
     {
