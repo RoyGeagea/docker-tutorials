@@ -1,4 +1,4 @@
-# Containers
+# Travailler avec des conteneurs
 
 Dans ce chapitre, nous explorerons en détail ce que nous pouvons faire avec les conteneurs.
 
