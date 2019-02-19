@@ -28,7 +28,6 @@ Docker est un service de gestion de conteneurs. Les mots-cl√©s de Docker sont d√
 * [Travailler avec des conteneurs](Pratiques)
 * [Architecture](Architecture)
 * [Container and Hosts](Container-hosts)
-* [Configuration](Configuration)
 * [Containers and Shells](Containers-Shells)
 * [File](File)
 * [Construction de fichiers](Construction-fichiers)
