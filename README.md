@@ -1,3 +1,5 @@
+![](docker-logo.png)
+
 # docker-tutorials
 
 Vous trouverez ici:
