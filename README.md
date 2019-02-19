@@ -48,7 +48,7 @@ Docker est un service de gestion de conteneurs. Les mots-cl√©s de Docker sont d√
 
 # Authors
 
-* Roy Geagea
+* [Roy Geagea](https://github.com/RoyGeagea)
 
 # License
 
