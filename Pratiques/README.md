@@ -24,12 +24,51 @@ $ sudo docker rm ContainerID
 ## docker stats:
 Cette commande est utilisée pour fournir les statistiques d'un conteneur en cours d'exécution.
 ```sh
-$ docker stats ContainerID  
+$ sudo docker stats ContainerID  
 ```
 
 output:
 
 ![](stats.png)
+
+## docker attach:
+Cette commande est utilisée pour attacher à un conteneur en cours d'exécution.
+```sh
+$ sudo docker attach ContainerID   
+```
+
+## docker pause:
+Cette commande est utilisée pour suspendre les processus dans un conteneur en cours d'exécution.
+```sh
+$ sudo docker pause ContainerID    
+```
+
+## docker unpause:
+Cette commande permet de suspendre les processus dans un conteneur en cours d'exécution.
+```sh
+$ sudo docker unpause ContainerID    
+```
+
+## docker kill:
+Cette commande est utilisée pour tuer les processus dans un conteneur en cours d'exécution.
+```sh
+$ sudo docker kill ContainerID    
+```
+
+## Container Lifecycle:
+L'illustration suivante explique le cycle de vie complet d'un conteneur Docker.
+
+![](lifecycle.png)
+
+
+
+
+
+
+
+
+
+
 
 
 
