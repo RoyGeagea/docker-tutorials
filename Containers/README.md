@@ -9,7 +9,9 @@ L'exécution des conteneurs est gérée à l'aide de la commande d'exécution Do
 ```sh
 $ sudo docker run –it centos /bin/bash
 ```
+
 output:
+
 ![](runcommand.png)
 
 ## Liste de conteneurs:
@@ -18,8 +20,9 @@ Pour voir la liste des images Docker sur le système, vous pouvez exécuter la c
 $ sudo docker container ps
 ```
 
+## Docker Cheat Sheet:
 
-
+[](docker-cheat-heet.png)
 
 
 
