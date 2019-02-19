@@ -22,7 +22,7 @@ $ sudo docker container ps
 
 ## Docker Cheat Sheet:
 
-[](docker-cheat-heet.png)
+![](docker-cheat-heet.png)
 
 
 
