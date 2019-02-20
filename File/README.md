@@ -6,7 +6,9 @@ Docker also gives you the capability to create your own Docker images, and it ca
 ## Créer un fichier Docker:
 ### Étape 1
 Créez un fichier appelé fichier Docker et modifiez-le à l'aide de vim. Veuillez noter que le nom du fichier doit être "Dockerfile" avec "D" en majuscule.
+```sh
 $ sudo vim Dockerfile
+```
 
 ### Étape 2
 Construisez votre fichier Docker en utilisant les instructions suivantes.
