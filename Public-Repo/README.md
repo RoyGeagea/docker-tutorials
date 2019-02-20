@@ -28,3 +28,22 @@ juste avec votre propre nom d'utilisateur et email que vous avez utilisé pour l
 WARNING: login credentials saved in /home/username/.docker/config.json
 Login Succeeded
 ```
+1. Vérifiez l'ID de l'image à l'aide de
+```sh
+$ sudo docker images
+```
+and tag your image
+```sh
+$ sudo docker tag bb38976d03cf yourhubusername/verse_gapminder:firsttry
+```
+Le numéro doit correspondre à l'ID de l'image et: firsttry correspond à la balise. En général, un bon choix pour une balise vous aidera à comprendre à quoi ce conteneur doit être associé ou ce qu’il représente. Si ce conteneur contient l’analyse d’un papier, envisagez d’utiliser le numéro DOI ou le numéro de série de ce journal; s’il est destiné à être utilisé avec une version particulière d’un référentiel de contrôle de version de code ou de données, c’est également un bon choix - tout ce qui vous aidera à comprendre le but de cette image particulière.
+
+1. Poussez votre image dans le référentiel que vous avez créé
+```sh
+$ sudo docker push yourhubusername/verse_gapminder
+```
+
+Votre image est maintenant disponible pour tout le monde.
+
+
+
