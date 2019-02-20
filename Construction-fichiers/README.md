@@ -16,7 +16,7 @@ $ sudo docker build  -t ImageName:TagName dir
 
 ### Exemple:
 ```sh
-docker build -t my_image .
+$ sudo docker build -t my_image .
 ```
 
 Output:
