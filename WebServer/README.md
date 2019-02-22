@@ -26,7 +26,7 @@ Les points suivants doivent être notés à propos des déclarations ci-dessus:
 ## Étape 2
 Exécutez la commande de compilation Docker pour générer le fichier Docker. Cela peut être fait en utilisant la commande suivante
 ```sh
-$ sudo docker build –t=”mywebserver” . 
+$ sudo docker build -t mywebserver . 
 ```
 
 ## Étape 3
