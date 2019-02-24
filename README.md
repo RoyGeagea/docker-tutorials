@@ -51,6 +51,14 @@ Docker est un service de gestion de conteneurs. Les mots-clés de Docker sont d�
 
 * [Roy Geagea](https://github.com/RoyGeagea)
 
+# Contribuer
+
+1. Fork it (<https://github.com/yourname/yourproject/fork>)
+2. Créez votre branche de fonctionnalité (`git checkout -b feature/fooBar`)
+3. Commettez vos modifications (`git commit -am "Ajoutez du fooBar"`)
+4. Push sur la branche (`git push origin feature/fooBar`)
+5. Créer une nouvelle Pull Request
+
 # License
 
 This project is licensed under the GNU LESSER GENERAL PUBLIC License - see the [LICENSE](LICENSE) file for details
