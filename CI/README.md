@@ -38,22 +38,3 @@ Maintenant, lancez votre travail à Jenkins. Dans la sortie de la console, vous 
 
 ![](7.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-```sh
-$ curl -L "https://github.com/docker/compose/releases/download/1.10.0-rc2/dockercompose
-   -$(uname -s) -$(uname -m)" -o /home/demo/docker-compose
-```
-
-
